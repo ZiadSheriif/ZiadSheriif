@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
 
@@ -34,8 +34,8 @@
 
 <a href="https://www.instagram.com/ziadsherif2000/">
   <img align="left" alt="Ziad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
-  
- <!-- <a href="https://github.com/ZeyadTarekk">
+<!--   
+ <a href="https://github.com/ZiadSheriif">
   <img align="left" alt="Ziad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
 </a> -->
   
@@ -96,14 +96,14 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&count_private=true&theme=radical)
 
-<!-- ![ZiadSheriif github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiadSheriif&theme=radical&include_all_commits=true&count_private=true) -->
+![ZiadSheriif github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiadSheriif&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
-<!-- <h1 align="center">
+<h1 align="center">
    <br/>
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</h1> -->
+</h1>
 <!--
 **ZiadSheriif/ZiadSheriif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
