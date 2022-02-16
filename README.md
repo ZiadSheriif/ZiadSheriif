@@ -34,10 +34,10 @@
 
 <a href="https://www.instagram.com/ziadsherif2000/">
   <img align="left" alt="Ziad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
-  
+<!--   
  <a href="https://github.com/ZiadSheriif">
   <img align="left" alt="Ziad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a>
+</a> -->
   
   <a href="https://github.com/ZiadSheriif">
   <img align="left" alt="zeyad's github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
