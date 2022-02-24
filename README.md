@@ -121,3 +121,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+  
+  
+  
+  
+  
+  <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZiadSheriif)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true)  
+
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZiadSheriif)  
+
+</div>
