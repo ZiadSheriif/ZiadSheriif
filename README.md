@@ -89,7 +89,9 @@
 
 
 </div>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <br /><br />
 
 <div align="center">
