@@ -89,30 +89,27 @@
 
 
 </div>
-<br /><br />
+<!-- <br /><br />
 
 
   <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZiadSheriif)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true)  
 
-<br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZiadSheriif)  
+<!-- <br> -->
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZiadSheriif)   -->
 
 </div>
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true&theme=radical&count_private=true)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true&theme=radical&count_private=true) -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true)  
 
   <br>
 
