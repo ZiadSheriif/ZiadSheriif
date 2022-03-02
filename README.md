@@ -1,4 +1,5 @@
 <p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&layout=compact)](https://github.com/ZiadSheriif/github-readme-stats)
 
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coder GIF" width="500" height="400">
   
@@ -25,7 +26,7 @@
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/ziad-sherif-b3a5561b9/"><img align="left" alt="zeyad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/ziad-sherif-b3a5561b9/"><img align="left" alt="Ziad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
 
   <a href="https://www.facebook.com/profile.php?id=100004840510238">
@@ -48,7 +49,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/ZiadSH.">
-  <img align="left" alt="ziad's codeforces" width="40px" src="https://github.com/ZeyadTarekk/ZeyadTarekk/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="ziad's codeforces" width="40px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/codeforces.png" draggable="false" />
 </a>
 
 </div>
