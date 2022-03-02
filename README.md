@@ -119,11 +119,11 @@
 ![ZiadSheriif github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiadSheriif&theme=radical&include_all_commits=true&count_private=true)
 
 </div>
-<h1 align="center">
+<!-- <h1 align="center">
    <br/>
 
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</h1>
+</h1> -->
 <!--
 **ZiadSheriif/ZiadSheriif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
