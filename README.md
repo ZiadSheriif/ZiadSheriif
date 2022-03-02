@@ -1,5 +1,5 @@
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&layout=compact)](https://github.com/ZiadSheriif/github-readme-stats)
+
 
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coder GIF" width="500" height="400">
   
