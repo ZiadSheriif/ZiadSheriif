@@ -62,7 +62,7 @@
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 <!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
 
-- 🚧 I'm currently focused on improving my web development skills
+- 🚧 I'm currently focused on improving my web development and embedded system skills
 
 - 🍀 Ask me about anything, I will be happy to help
 
