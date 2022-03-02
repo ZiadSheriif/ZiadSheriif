@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/ZiadSH.">
-  <img align="left" alt="ziad's codeforces" width="40px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/codeforces.png" draggable="false" />
 </a>
 
 </div>
