@@ -105,12 +105,15 @@
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZiadSheriif)   -->
 
+
+<!-- "https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&count_private=true&theme=radical" -->
+
 </div>
 
 <div align="center">
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true&theme=radical&count_private=true) -->
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadSheriif&show_icons=true&theme=radical&count_private=true)  
 
   <br>
 
