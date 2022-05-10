@@ -117,7 +117,7 @@
 
   <br>
   
-<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&langs_count=9&theme=tokyonight&layout=compact) -->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&langs_count=9&theme=tokyonight&layout=compact)
 <!--   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadSheriif&count_private=true&theme=radical) -->
 
 ![ZiadSheriif github streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiadSheriif&theme=radical&include_all_commits=true&count_private=true)
