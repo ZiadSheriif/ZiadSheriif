@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/ZiadSH.">
-  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/codeforces.png" draggable="false" />
+  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/codeforces.png" draggable="false" />
 </a>
 
 </div>
@@ -71,21 +71,21 @@
 <div align="center">
 
 
-<code><img height="40" title="Embedded System" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/ES.jpg"></code>
+<code><img height="40" title="Embedded System" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/ES.jpg"></code>
 <code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="40" title="Assembly" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/masm.png"></code>
+  <code><img height="40" title="Assembly" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/masm.png"></code>
 <br />
 <code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" title="Bootstrap" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/bootstrap.png"></code>
-  <code><img height="40" title="Sql" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/sql.png"></code>
+<code><img height="40" title="Bootstrap" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/bootstrap.png"></code>
+  <code><img height="40" title="Sql" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/sql.png"></code>
 
 
 
