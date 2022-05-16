@@ -19,7 +19,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/wave.gif" width="40px">, I'm [Ziad!](https://www.linkedin.com/in/ziad-sherif-b3a5561b9/)
+# Hey <img src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/wave.gif" width="40px">, I'm [Ziad!](https://www.linkedin.com/in/ziad-sherif-b3a5561b9/)
 
 <br/>
 
