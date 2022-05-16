@@ -7,7 +7,8 @@
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code."**
+<!-- **"First, solve the problem. Then, write the code."** -->
+  **"Code never lies, comments sometimes do."**
 
  <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/ZiadSheriif?&a=0"> 
