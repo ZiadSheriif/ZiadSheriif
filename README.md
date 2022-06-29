@@ -20,7 +20,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/wave.gif" width="40px">, I'm [Ziad!](https://www.linkedin.com/in/ziad-sherif-b3a5561b9/)
+# Hey <img src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/wave.gif" width="40px" height="40px">, I'm [Ziad!](https://www.linkedin.com/in/ziad-sherif-b3a5561b9/)
 
 <br/>
 
@@ -61,9 +61,13 @@
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
 - 🎓 Computer Engineering Student <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-<!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
 
 - 🚧 I'm currently focused on improving my software , hardware basic skills and problem solving
+
+- 👨‍💻 Interested in Back-End , Competitive Programming and Embedded System
+<!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
+
+Connect with me:
 
 <!-- - 🍀 Ask me about anything, I will be happy to help -->
 
