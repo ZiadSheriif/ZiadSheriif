@@ -67,7 +67,7 @@
 - 👨‍💻 Interested in Back-End , Competitive Programming and Embedded System
 <!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
 
-Connect with me:
+<!-- Connect with me: -->
 
 <!-- - 🍀 Ask me about anything, I will be happy to help -->
 
