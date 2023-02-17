@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/ZiadSH.">
-  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/codeforces.png" draggable="false" />
+  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/code-forces.png" draggable="false" />
 </a>
 
 </div>
