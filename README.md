@@ -64,7 +64,7 @@
 
 - 🚧 I'm currently focused on improving my software , hardware basic skills and problem solving
 
-- 👨‍💻 Interested in Competitive Programming , Embedded System , Computer Vision and Front-End
+- 👨‍💻 Interested in Competitive Programming , Front-End , Computer Vision and Embedded System
 <!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
 
 <!-- Connect with me: -->
