@@ -27,7 +27,7 @@
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/ziad-sherif-b3a5561b9/"><img align="left" alt="Ziad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/ziad-sherif20/"><img align="left" alt="Ziad's LinkdeIN" width="30px" src="https://user-images.githubusercontent.com/76125650/140648921-7692f46e-76c4-47f6-8c1f-383841428bbe.png" draggable="false" /></a>
 
 
   <a href="https://www.facebook.com/profile.php?id=100004840510238">
@@ -36,11 +36,7 @@
 
 <a href="https://www.instagram.com/ziadsherif2000/">
   <img align="left" alt="Ziad's Instagram" width="30px" src="https://user-images.githubusercontent.com/76125650/141382540-72edfb69-b11e-4e61-81fd-9f0653da2162.png" draggable="false" /></a>
-<!--   
- <a href="https://github.com/ZiadSheriif">
-  <img align="left" alt="Ziad's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
-</a> -->
-  
+<!--     
 <!--   <a href="https://github.com/ZiadSheriif">
   <img align="left" alt="Ziad's github" width="30px" src="https://user-images.githubusercontent.com/76125650/139602266-044d30d7-1ad5-4b59-a0db-bf0777dd8b7a.png" draggable="false" />
 </a> -->
@@ -50,9 +46,11 @@
 </a>
 
 <a href="https://codeforces.com/profile/ZiadSH.">
-  <img align="left" alt="ziad's codeforces" width="30px" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/code-forces.png" draggable="false" />
+  <img align="left" alt="ziad's codeforces" width="30px" src="images/codeforces.svg" draggable="false" />
 </a>
-
+<a href="https://leetcode.com/u/zsherif308/">
+  <img align="left" alt="ziad's codeforces" width="30px" src="images/leetcode.svg" draggable="false" />
+</a>
 </div>
 
 <br />
@@ -64,7 +62,7 @@
 
 - 🚧 I'm currently focused on improving my software , hardware basic skills and problem solving
 
-- 👨‍💻 Interested in Competitive Programming , Front-End , Computer Vision and Embedded System
+- 👨‍💻 Interested in Competitive Programming, Software Engineering, and Data Science
 <!-- - 🏃‍♂️ I am passionate about Front-End, Competitive Programming and Computer vision -->
 
 <!-- Connect with me: -->
@@ -75,24 +73,47 @@
 
 <div align="center">
 
-
-<code><img height="40" title="Embedded System" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/ES.jpg"></code>
-<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="40" title="Assembly" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/masm.png"></code>
-<br />
-<code><img height="40" title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="40" title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" title="Bootstrap" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/bootstrap.png"></code>
-  <code><img height="40" title="Sql" src="https://github.com/ZiadSheriif/ZiadSheriif/blob/main/images/sql.png"></code>
+<code><img height="40" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="34" title="Java" src="./images/java.png"></code>
+<code><img height="40" width="60" title="Golang" src="./images/golang.png"></code>
+<code><img height="40" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" title="Assembly" src="images/asm.png"></code>
+<code><img height="40" title="Matlab" src="./images/matlab.png"></code>
+<code><img height="40" width="60" title="OpenGL" src="./images/opengl.svg"></code>
 
+<br />
+  
+<code><img height="40" title="NodeJS" src="images/node.png"></code>
+<code><img height="40" title="ExpressJS" src="images/express.png"></code>
+<code><img height="40" title="ReactJS" src="images/react.svg"></code>
+<code><img height="40" title="VueJs" src="images/vue.svg"></code>
+<code><img height="40" title="Jasmine" src="images/jasmine.svg"></code>
+<code><img height="40" title="Jest" src="images/jest.png"></code>
+<code><img height="40" title="MYSQL" src="./images/mysql.png"></code>
+<code><img height="40" title="Sequelize" src="images/sequelize.svg"></code>
+<code><img height="40" title="Mongodb" src="images/mongodb.svg"></code>
+<code><img height="40" title="Mongoose" src="images/mongoose.png"></code>
+<code><img height="40" title="Docker" src="images/docker.png"></code>
+<code><img height="40" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+<br />
+
+<code><img height="40" title="MS Dynamics 365" src="images/dynamics365.png"></code>
+<code><img height="40" title="Arduino" src="./images/arduino.png"></code>
+<code><img height="40" title="Linux" src="./images/linux.png"></code>
+<code><img height="40" title="Git" src="./images/git.png"></code>
+<code><img height="40" title="Laravel" src="./images/laravel.png"></code>
+<code><img height="40" title="PostgreSQL" src="images/Postgresql.svg"></code>
+<code><img height="40" title="Material-ui" src="images/material-ui.svg"></code>
+<code><img height="40" title="Bootstrap" src="images/bootstrap.png"></code>
+<code><img height="40" width="40" title="Tensorflow" src="images/tensorflow.png"></code>
+<code><img height="40" width="40" title="Pytorch" src="images/pytorch.svg"></code>
+<code><img height="40" title="OpenCV" src="images/opencv.png"></code>
 
 </div>
 <!-- <br /><br />
